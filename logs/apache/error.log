@@ -1,0 +1,5 @@
+[Mon Feb 15 19:14:08.334261 2021] [mpm_winnt:notice] [pid 9796:tid 424] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Mon Feb 15 19:14:08.335261 2021] [mpm_winnt:notice] [pid 9796:tid 424] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Feb 15 19:14:08.335261 2021] [core:notice] [pid 9796:tid 424] AH00094: Command line: 'C:\\Users\\Bruno\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Bruno/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Bruno\\AppData\\Roaming\\Local\\run\\C96cJaG_h\\conf\\apache\\apache2.conf'
+[Mon Feb 15 19:14:08.339261 2021] [mpm_winnt:notice] [pid 9796:tid 424] AH00418: Parent: Created child process 8908
+[Mon Feb 15 19:14:09.602333 2021] [mpm_winnt:notice] [pid 8908:tid 448] AH00354: Child: Starting 64 worker threads.

@@ -1,0 +1,17 @@
+127.0.0.1 - - [15/Feb/2021:19:14:35 +0100] "POST /wp-cron.php?doing_wp_cron=1613412875.8048319816589355468750 HTTP/1.0" 200 -
+127.0.0.1 - - [15/Feb/2021:19:16:31 +0100] "GET /wp-admin/?cache-buster=949 HTTP/1.0" 302 -
+127.0.0.1 - - [15/Feb/2021:19:16:34 +0100] "GET /wp-login.php?redirect_to=http%3A%2F%2Fmisrecetaswp.local%2Fwp-admin%2F%3Fcache-buster%3D949&reauth=1 HTTP/1.0" 200 6806
+127.0.0.1 - - [15/Feb/2021:19:16:37 +0100] "GET /favicon.ico HTTP/1.0" 302 -
+127.0.0.1 - - [15/Feb/2021:19:16:40 +0100] "GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.0" 200 4119
+127.0.0.1 - - [15/Feb/2021:19:16:41 +0100] "POST /wp-login.php HTTP/1.0" 302 -
+127.0.0.1 - - [15/Feb/2021:19:16:44 +0100] "GET /wp-admin/?cache-buster=949 HTTP/1.0" 200 68195
+127.0.0.1 - - [15/Feb/2021:19:16:49 +0100] "GET /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=b24072f98a&1613413009176 HTTP/1.0" 200 1114
+127.0.0.1 - - [15/Feb/2021:19:16:49 +0100] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 1457
+127.0.0.1 - - [15/Feb/2021:19:16:49 +0100] "GET /wp-admin/admin-ajax.php?action=dashboard-widgets&widget=dashboard_primary&pagenow=dashboard HTTP/1.0" 200 1386
+127.0.0.1 - - [15/Feb/2021:19:16:50 +0100] "POST /wp-cron.php?doing_wp_cron=1613413010.4495329856872558593750 HTTP/1.0" 200 -
+127.0.0.1 - - [15/Feb/2021:19:16:52 +0100] "GET /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=b24072f98a&1613413012695 HTTP/1.0" 200 572
+127.0.0.1 - - [15/Feb/2021:19:56:01 +0100] "GET /wp-admin/?cache-buster=127 HTTP/1.0" 200 69426
+127.0.0.1 - - [15/Feb/2021:19:56:02 +0100] "POST /wp-cron.php?doing_wp_cron=1613415362.9600889682769775390625 HTTP/1.0" 200 -
+127.0.0.1 - - [15/Feb/2021:19:56:06 +0100] "GET /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=b24072f98a&1613415366726 HTTP/1.0" 200 1114
+127.0.0.1 - - [15/Feb/2021:19:56:06 +0100] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 1457
+127.0.0.1 - - [15/Feb/2021:19:56:10 +0100] "GET /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=b24072f98a&1613415370344 HTTP/1.0" 200 572
