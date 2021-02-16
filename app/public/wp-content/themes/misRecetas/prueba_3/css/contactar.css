@@ -1,0 +1,10 @@
+.contactar {
+    background-color:#B3CACA;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px black;
+    width: 50%;
+}
+
+#mensaje {
+    resize: none;
+}

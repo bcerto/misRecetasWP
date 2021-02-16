@@ -1,0 +1,50 @@
+
+* {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.txt-mayus-ctr {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.txt-min {
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+.txt-mayus {
+    text-transform: uppercase;
+    font-size: 1.2em;
+}
+
+.txt-mayus15 {
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.txt-mayus-bold {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.txt-mayus-bold-w {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+}
+
+.txt-mayus-bold-w-u {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+
+.txt-ctr {
+    text-align: center;
+}

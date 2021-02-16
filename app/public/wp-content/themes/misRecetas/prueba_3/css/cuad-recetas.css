@@ -1,0 +1,39 @@
+.cuad-recetas1 {
+    background-color: rgb(213, 226, 182);
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.cuad-recetas2 {
+    background-color: rgb(226, 192, 182);
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+
+.cuad-recetas3 {
+    background-color: rgb(182, 226, 182);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.cuad-recetas4 {
+    background-color: rgb(182, 197, 226);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.cuad-recetas5 {
+    background-color: rgb(226, 182, 220);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.cuad-recetas6 {
+    background-color: rgb(226, 182, 182);
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,50 @@
+@import 'reset.css';
+@import 'text.css';
+@import 'mgn-pdg.css';
+@import 'nav-bar.css';
+@import 'header.css';
+@import 'basic.css';
+@import 'pie-de-pagina.css';
+@import 'images.css';
+@import 'layout.css';
+@import 'contactar.css';
+@import 'iconos.css';
+@import 'cuadrados.css';
+@import 'recetas.css';
+@import 'cuad-recetas.css';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.cuerpo-ppal {
+    background-image: url(/_resources/food\ pattern.png_2.png);
+    background-size: 300px;
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: #F0F7EF;
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+
+    box-shadow: 1px 1px 20px 5px black;
+    
+}
+
+.barra-lateral {
+    background-color:#B3CACA;
+    box-shadow: 1px 1px 10px 1px black;
+
+}
+
+.seccion {
+    display: flex;
+    justify-content:space-around;
+}
+

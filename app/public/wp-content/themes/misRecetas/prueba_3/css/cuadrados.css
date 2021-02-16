@@ -1,0 +1,65 @@
+.cuadrado1 {
+    background-color: rgb(226, 219, 182);
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cuadrado1:hover {
+    transform: scale(1.04);
+}
+
+.cuadrado2 {
+    background-color: rgb(226, 192, 182);
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cuadrado2:hover {
+    transform: scale(1.04);
+}
+
+.cuadrado3 {
+    background-color: rgb(182, 226, 182);
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cuadrado3:hover {
+    transform: scale(1.04);
+}
+
+.cuadrado4 {
+    background-color: rgb(182, 197, 226);
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cuadrado4:hover {
+    transform: scale(1.04);
+}
+
+.cuadrado5 {
+    background-color: rgb(226, 182, 220);
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cuadrado5:hover {
+    transform: scale(1.04);
+}
+
+.cuadrado6 {
+    background-color: rgb(226, 182, 182);
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cuadrado6:hover {
+    transform: scale(1.04);
+}

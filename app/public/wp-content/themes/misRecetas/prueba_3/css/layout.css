@@ -1,0 +1,22 @@
+.rounded {
+    border-radius: 10px;
+}
+
+.img-center {
+    justify-content: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.block-center-row {
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.input-basic {
+    border: 2px solid #aaa;
+    width: 100%;
+}
